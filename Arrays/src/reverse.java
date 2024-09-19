@@ -10,10 +10,12 @@ public class reverse {
     static void rev(int a []){
         int start=0;
         int end = a.length-1;
-        if(start<end){
-            swap(a,start,end);
-            start++;
-            end--;
+        for(int i=start;i<a.length;i++) {
+            if (start < end) {
+                swap(a, start, end);
+                start++;
+                end--;
+            }
         }
     }
     static void swap(int a[],int i,int j){
