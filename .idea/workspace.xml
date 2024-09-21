@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="ls1">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/linsearchstr.java" afterDir="false" />
+    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="lol">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/rangeinarr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.linsearchstr">
-    <configuration name="arrlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrlist" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.rangeinarr">
     <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linearsearch" />
       <module name="Arrays" />
@@ -68,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rangeinarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rangeinarr" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reverse" />
       <module name="Arrays" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rangeinarr" />
         <item itemvalue="Application.linsearchstr" />
         <item itemvalue="Application.linearsearch" />
         <item itemvalue="Application.reverse" />
         <item itemvalue="Application.muldarrlist" />
-        <item itemvalue="Application.arrlist" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726764536488</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lol">
+      <created>1726934536627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726934536627</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,7 +153,8 @@
     <MESSAGE value="reverse" />
     <MESSAGE value="arraylist" />
     <MESSAGE value="ls1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ls1" />
+    <MESSAGE value="lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,6 +163,10 @@
           <url>file://$PROJECT_DIR$/Arrays/src/arrlist.java</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/linsearchstr.java</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
