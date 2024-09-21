@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="arraylist">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/linearsearch.java" afterDir="false" />
+    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="ls1">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/linsearchstr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/reverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.linearsearch">
+  <component name="RunManager" selected="Application.linsearchstr">
     <configuration name="arrlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrlist" />
       <module name="Arrays" />
@@ -55,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="muldarrlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="muldarrlist" />
+    <configuration name="linsearchstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linsearchstr" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="muldiarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="muldiarr" />
+    <configuration name="muldarrlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="muldarrlist" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linsearchstr" />
         <item itemvalue="Application.linearsearch" />
         <item itemvalue="Application.reverse" />
         <item itemvalue="Application.muldarrlist" />
         <item itemvalue="Application.arrlist" />
-        <item itemvalue="Application.muldiarr" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726589135832</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ls1">
+      <created>1726764536488</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726764536488</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,7 +145,8 @@
     <MESSAGE value="max" />
     <MESSAGE value="reverse" />
     <MESSAGE value="arraylist" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraylist" />
+    <MESSAGE value="ls1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ls1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
