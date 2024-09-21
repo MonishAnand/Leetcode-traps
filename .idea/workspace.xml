@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="lol">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/rangeinarr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="range">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/mininarr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.rangeinarr">
+  <component name="RunManager" selected="Application.mininarr">
     <configuration name="linearsearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linearsearch" />
       <module name="Arrays" />
@@ -54,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="muldarrlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="muldarrlist" />
+    <configuration name="mininarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mininarr" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mininarr" />
         <item itemvalue="Application.rangeinarr" />
         <item itemvalue="Application.linsearchstr" />
         <item itemvalue="Application.linearsearch" />
         <item itemvalue="Application.reverse" />
-        <item itemvalue="Application.muldarrlist" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726934536627</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="range">
+      <created>1726935775610</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726935775610</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,7 +160,8 @@
     <MESSAGE value="arraylist" />
     <MESSAGE value="ls1" />
     <MESSAGE value="lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+    <MESSAGE value="range" />
+    <option name="LAST_COMMIT_MESSAGE" value="range" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
