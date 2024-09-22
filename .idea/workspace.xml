@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="min">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/evennoofdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/binarysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/floor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,14 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.evennoofdigits">
+  <component name="RunManager" selected="Application.floor">
+    <configuration name="ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ceiling" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="evennoofdigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="evennoofdigits" />
       <module name="Arrays" />
@@ -47,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linsearchstr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linsearchstr" />
+    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="floor" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,13 +65,6 @@
     </configuration>
     <configuration name="mininarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mininarr" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rangeinarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rangeinarr" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.floor" />
+        <item itemvalue="Application.ceiling" />
         <item itemvalue="Application.evennoofdigits" />
         <item itemvalue="Application.searchin2d" />
         <item itemvalue="Application.mininarr" />
-        <item itemvalue="Application.rangeinarr" />
-        <item itemvalue="Application.linsearchstr" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726936675478</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="min">
+      <created>1727010823936</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727010823936</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
