@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="min">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/binarysearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/src/bubble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,14 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.floor">
+  <component name="RunManager" selected="Application.bubble">
+    <configuration name="bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubble" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ceiling" />
       <module name="Arrays" />
@@ -63,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mininarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mininarr" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="searchin2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searchin2d" />
       <module name="Arrays" />
@@ -79,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bubble" />
         <item itemvalue="Application.floor" />
         <item itemvalue="Application.ceiling" />
         <item itemvalue="Application.evennoofdigits" />
         <item itemvalue="Application.searchin2d" />
-        <item itemvalue="Application.mininarr" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727010823936</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="min">
+      <created>1727026947873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727026947873</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
