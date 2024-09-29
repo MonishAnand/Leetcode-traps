@@ -40,7 +40,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.selection">
+  <component name="RunManager" selected="Application.insertion">
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SelectionSort" />
       <module name="sorting" />
@@ -55,16 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ceiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ceiling" />
+    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="floor" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="floor" />
-      <module name="Arrays" />
+    <configuration name="insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="insertion" />
+      <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.insertion" />
         <item itemvalue="Application.selection" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.bubble" />
         <item itemvalue="Application.floor" />
-        <item itemvalue="Application.ceiling" />
       </list>
     </recent_temporary>
   </component>
