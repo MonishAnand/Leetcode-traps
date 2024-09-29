@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="min">
-      <change afterPath="$PROJECT_DIR$/sorting/src/bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/src/selection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,12 +34,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.bubble">
+  <component name="RunManager" selected="Application.selection">
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
+      <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bubble" />
       <module name="sorting" />
@@ -54,13 +62,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="evennoofdigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evennoofdigits" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="floor" />
       <module name="Arrays" />
@@ -68,20 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="searchin2d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchin2d" />
-      <module name="Arrays" />
+    <configuration name="selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selection" />
+      <module name="sorting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.selection" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.bubble" />
         <item itemvalue="Application.floor" />
         <item itemvalue="Application.ceiling" />
-        <item itemvalue="Application.evennoofdigits" />
-        <item itemvalue="Application.searchin2d" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727026947873</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="min">
+      <created>1727542420799</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727542420799</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
