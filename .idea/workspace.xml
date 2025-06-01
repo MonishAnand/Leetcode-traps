@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="min">
-      <change afterPath="$PROJECT_DIR$/sorting/src/selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/charactertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/nonrepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/src/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorting/src/quick.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/src/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/reverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,23 +44,9 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.insertion">
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelectionSort" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bubble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubble" />
-      <module name="sorting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="floor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="floor" />
+  <component name="RunManager" selected="Application.charactertest">
+    <configuration name="charactertest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="charactertest" />
       <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +55,20 @@
     <configuration name="insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="insertion" />
       <module name="sorting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nonrepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nonrepeat" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.charactertest" />
+        <item itemvalue="Application.nonrepeat" />
+        <item itemvalue="Application.reverse" />
         <item itemvalue="Application.insertion" />
         <item itemvalue="Application.selection" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.bubble" />
-        <item itemvalue="Application.floor" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727542420799</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="min">
+      <created>1727611925090</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727611925090</updated>
+    </task>
+    <task id="LOCAL-00014" summary="min">
+      <created>1727612381290</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727612381290</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
