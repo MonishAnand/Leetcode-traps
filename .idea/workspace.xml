@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="min">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/charactertest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/nonrepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/src/merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting/src/quick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/src/reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/reverse.java" afterDir="false" />
-    </list>
+    <list default="true" id="30d0ab71-702e-4f55-b523-183db65442ce" name="Changes" comment="merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727612381290</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="merge">
+      <created>1748798496110</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748798496110</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -210,7 +210,8 @@
     <MESSAGE value="lol" />
     <MESSAGE value="range" />
     <MESSAGE value="min" />
-    <option name="LAST_COMMIT_MESSAGE" value="min" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
