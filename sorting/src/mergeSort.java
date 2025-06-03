@@ -47,6 +47,8 @@ public class mergeSort {
             k++;
         }
 
+
+
         return mix;  // Return the merged array
     }
 }
